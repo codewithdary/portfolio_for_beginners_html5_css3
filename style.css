@@ -4,6 +4,7 @@ html, body {
     width: 100%;
     height: 100%;
     background-color: #f2f2f2;
+    box-sizing: border-box;
     font-family: 'Lato', sans-serif;
 }
 
@@ -75,6 +76,12 @@ p {
     padding: 0px 4px 6px 4px;
     text-transform: uppercase;
     color: #303030;
+}
+.nav-link:hover{
+    transition: 0.7s ease;   
+}
+.nav-link:hover{
+    color: #ff6500;
 }
 
 /* Landing section */
