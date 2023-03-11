@@ -78,7 +78,7 @@ p {
     color: #303030;
 }
 .nav-link:hover{
-    transition: 0.7s ease;   
+    transition: 0.3s ease;   
 }
 .nav-link:hover{
     color: #ff6500;
